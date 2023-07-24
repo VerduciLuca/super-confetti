@@ -34,7 +34,7 @@ button:hover{
     bottom:0px;
     margin-bottom: 0px;
     mix-blend-mode:color-burn;
-    z-index:-1;
+    z-index:999;
 
 }
 
